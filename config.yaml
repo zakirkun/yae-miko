@@ -1,0 +1,6 @@
+lb_port: 3333
+## LB strategy (uses round-robin as default)
+strategy: least-connection
+retry_limit: 3
+backends:
+  - "http://localhost:1337"
