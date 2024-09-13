@@ -2,7 +2,7 @@
 
 # Yae Miko
 
-A simple API Gateway built with round-robin and least connection load balancing algorithms. This gateway includes Prometheus for monitoring and Grafana for visualization. The setup is containerized using Docker Compose.
+A simple API Gateway built with round-robin and least connection load balancing algorithms. This gateway includes Prometheus for monitoring and Grafana for visualization. 
 
 ## Features
 
